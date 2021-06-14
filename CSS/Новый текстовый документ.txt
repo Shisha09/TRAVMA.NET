@@ -1,0 +1,25 @@
+ <div class="dropdown-divider"></div> 
+__________________________________________
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div>
+    <a class="navbar-brand"  id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Гандбол
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <p>Верхняя часть тела </p>
+           <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="Повреждения капсульно-связочного аппарата-ГАНДБОЛ.html">Повреждения капсульно-связочного аппарата плечевого сустава</a>
+          <a class="dropdown-item" href="Травмы локтя-ГАНДБОЛ.html">Травмы локтя</a>
+             <div class="dropdown-divider"></div>
+           <p>Нижняя часть тела</p>
+          <div class="dropdown-divider"></div>
+           <a class="dropdown-item" href="Повреждение коленей-ГАНДБОЛ.html">Травма коленей</a>
+           <a class="dropdown-item" href="Повреждения связочного аппарата голеностопных- ГАНДБОЛ.html">
+          Повреждения связочного аппарата голеностопных суставов</a>
+        </div>
+      </li>
+    </div>
+           <nav class="navbar navbar-expand-lg navbar-light bg-light">

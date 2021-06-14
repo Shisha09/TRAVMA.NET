@@ -1,0 +1,25 @@
+         Верхняя часть тела
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="плечо-ЕДИНОБОРСТВА.html">Вывихи плечевого сустава </a>
+          <a class="dropdown-item" href="надрывы или растяжение плеча- ЕДИНОБОРСТВА.html">Растяжения и надрывы мышц плеча</a>
+        </div>
+        <ul class="navbar-nav">
+         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Нижняя часть тела
+        </a>
+         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="вывех или подвывех колена и голеностопа-ЕДИНОБОРСТВА.html">Вывихи или подвывихи коленного и голеностопного сустава </a>
+          <a class="dropdown-item" href="перелом голеней или лодыжек-ЕДИНОБОРСТВА.html">
+          Перелом  лодыжки</a>
+          <a class="dropdown-item" href="Разрыв коленных связок -ЕДИНОБОРСТВА.html">Разрыва коленных связок</a>
+          <a class="dropdown-item" href="разрыв и растяжение ахила-ЕДИНОБОРСТВА.html">Разрыв и растяжение ахилового сухожилия</a>
+           <a class="dropdown-item" href="Разрыв мениска-ЕДИНОБОРСТВА.html">Разрыв мениска, а также связок и сухожилий колена</a>
+          </a>
+        </div>
+	        </div>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+	<script src="boostrap/js/bootstrap.min.js"></script>
